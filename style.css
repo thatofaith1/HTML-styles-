@@ -1,0 +1,36 @@
+
+#green_paragraph{
+    color:green;
+    font-size: 30px;
+} 
+
+/* comment in css */
+.red_paragraph{
+    color:red;
+    font-size: 50px;
+}
+
+
+.container{
+    width: 800px;
+    height: 500px;
+    border: 1px solid aqua;
+    padding: 10px;
+    margin: 30px;
+
+    
+    display: flex;
+    
+}
+
+.item{
+    padding: 5px;
+}
+.container img{
+    width: 100%;
+    height: auto;
+}
+
+body{
+    background-color: aqua;
+}
